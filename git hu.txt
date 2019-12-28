@@ -1,0 +1,10 @@
+git --version
+git config -- global user.name ''
+git config -- global user.email ''
+git status 
+git add name file
+git rm-- cached name file to delet 
+git commit
+git log 
+git commit -m ''
+git branch
